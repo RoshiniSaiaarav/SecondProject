@@ -1,0 +1,1 @@
+we will use sendkeys method to pass some text values inside the textbox in selenium.
